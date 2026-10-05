@@ -1,0 +1,4 @@
+# Vivo 1820 / PD1818HF_EX proprietary blobs
+#
+# This file is intentionally a placeholder.
+# Actual blobs must be extracted from matching PD1818HF_EX firmware/device.
